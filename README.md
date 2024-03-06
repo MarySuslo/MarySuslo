@@ -38,7 +38,7 @@
 <img src=https://img.shields.io/badge/gmail-090909?.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" /></a>
 <a href="t.me/MariaSuslo" target="_blank"> <img src="https://img.shields.io/badge/-Telegram-090909?.svg?&style=for-the-badge&logo=telegram&logoColor=27A0D9" alt=telegram style="margin-bottom: 5px;" /> </a>
 </p>
-
+<!--
 ---------
 
 ### LeetCode:
@@ -47,7 +47,7 @@
 
 [![ LeetCode stats](https://leetcode-stats-six.vercel.app/api?usernameMariaSuslo&theme=dark)](https://github.com/MariaSuslo/leetcode-stats)
 </p>
-
+-->
 ---------
 
 ### CodeWars:
