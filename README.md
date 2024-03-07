@@ -34,9 +34,9 @@
 
 <p align="left"> <a href="https://github.com/MarySuslo" target="_blank">
 <img src=https://img.shields.io/badge/github-090909?.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-<a href="mariasuslo37@gmail.com" target="_blank">
+<a href="mailto:mariasuslo37@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-090909?.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" /></a>
-<a href="t.me/MariaSuslo" target="_blank"> <img src="https://img.shields.io/badge/-Telegram-090909?.svg?&style=for-the-badge&logo=telegram&logoColor=27A0D9" alt=telegram style="margin-bottom: 5px;" /> </a>
+<a href="https://tlgg.ru/MariaSuslo" target="_blank"> <img src="https://img.shields.io/badge/-Telegram-090909?.svg?&style=for-the-badge&logo=telegram&logoColor=27A0D9" alt=telegram style="margin-bottom: 5px;" /> </a>
 </p>
 <!--
 ---------
