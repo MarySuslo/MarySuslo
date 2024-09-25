@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIR4USJFoYbT4aRYLSlrVfYWHagQccJ13QWS6AfH_gTk41A5g-Z6On-t7LzpacYViIA&usqp=CAU" width=1550px>
+<img src="https://i.pinimg.com/originals/6a/49/1e/6a491e2d05abf02175b05e27c8da0c33.jpg" width=1550px>
 
 
 
@@ -8,12 +8,16 @@
 
 </p>
 <p align="left" color=000000 style="background:black; padding:5;">
- Я начинающий раработчик, программист. Училась программированию в техникуме и университете с последующим самообучением. </br>
-На данный момент изучаю разработку:</br>
-    🐾 desktop приложений 
-    🐾 игр
-    🐾 мобильных приложений
+ Я начинающий раработчик, программист. Училась программированию в техникуме и университете с последующим самообучением. 
+ Самостоятельно осваиваю java.</br>
+<br>Интересуюсь разработкой:</br>
+    🐾 desktop приложений </br>
+    🐾 web сервисов</br>
+    🐾 игр</br>
+    
 </p>
+
+<img src="https://i.pinimg.com/originals/63/8c/da/638cda3af1387b98407708ea17a28d26.jpg" width=1550px>
 
 --------------
 
@@ -24,8 +28,7 @@
  ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%23&logoColor=813787)
 ![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql&logoColor=007e7d)
- ![unity](https://img.shields.io/badge/-unity-090909?style=for-the-badge&logo=unity&logoColor=white)
-  ![unreal](https://img.shields.io/badge/-unrealengine-090909?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Java](https://img.shields.io/badge/java-090909?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 
   </p>
 
@@ -38,16 +41,8 @@
 <img src=https://img.shields.io/badge/gmail-090909?.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" /></a>
 <a href="https://tlgg.ru/MariaSuslo" target="_blank"> <img src="https://img.shields.io/badge/-Telegram-090909?.svg?&style=for-the-badge&logo=telegram&logoColor=27A0D9" alt=telegram style="margin-bottom: 5px;" /> </a>
 </p>
-<!--
----------
 
-### LeetCode:
 
-<p>
-
-[![ LeetCode stats](https://leetcode-stats-six.vercel.app/api?usernameMariaSuslo&theme=dark)](https://github.com/MariaSuslo/leetcode-stats)
-</p>
--->
 
 ---------
 
@@ -66,4 +61,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarySuslo&theme=blue_navy)](https://github.com/MarySuslo/github-readme-stats)
+
 
