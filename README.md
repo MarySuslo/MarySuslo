@@ -27,7 +27,7 @@
 
  ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%23&logoColor=813787)
-![sql](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=mysql&logoColor=007e7d)
+![postgreSQL](https://img.shields.io/badge/-mysql-090909?style=for-the-badge&logo=postgresql&logoColor=007e7d)
 ![Java](https://img.shields.io/badge/java-090909?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 
   </p>
